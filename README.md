@@ -41,7 +41,7 @@ Accessing the project involves a few steps:
 *Step 1 :* Clone the Repository : 
 
 bash
-  git clone https://github.com/nezhaezzoubair/GestureSlides.git
+  git clone https://github.com/nezhaezzoubair/SlidesGesture.git
 
 
 *Step 2 :* Set Up Environment and Dependencies
